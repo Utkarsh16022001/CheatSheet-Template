@@ -1,2 +1,2 @@
 # CheatSheet-Template
-site: https://utkarsh-goel-cheatsheet.netlify.app/
+Site in action at: https://utkarsh-goel-cheatsheet.netlify.app/
